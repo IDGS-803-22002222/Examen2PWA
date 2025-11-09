@@ -80,7 +80,7 @@ const Registro = () => {
                     className="form-control"
                     id="ocupacion"
                     name="ocupacion"
-                    placeholder="Ej: Desarrollador Full Stack"
+                    placeholder=""
                     required
                   />
                 </div>
@@ -94,11 +94,8 @@ const Registro = () => {
                     className="form-control"
                     id="avatar"
                     name="avatar"
-                    placeholder="https://ejemplo.com/imagen.jpg"
+                    placeholder="link de la img"
                   />
-                  <small className="text-muted">
-                    Si no se proporciona, se generará uno automáticamente
-                  </small>
                 </div>
 
                 <div className="mb-4">

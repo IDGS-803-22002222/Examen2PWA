@@ -25,9 +25,7 @@ const LayoutPublic = () => {
       </main>
 
       <footer className="container text-center py-4 mt-5 border-top">
-        <p className="text-muted mb-0">
-          &copy; 2024 Universidad Tecnológica de León - Congreso TIC's
-        </p>
+        <p className="text-muted mb-0">Universidad Tecnologica de León</p>
       </footer>
     </>
   );
