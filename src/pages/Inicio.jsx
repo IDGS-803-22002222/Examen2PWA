@@ -17,8 +17,7 @@ const Inicio = () => {
           </h1>
           <p className="lead mb-4">Universidad Tecnológica de León</p>
           <p className="text-muted mb-5">
-            Únete al evento más importante de TI del año. Conecta con
-            profesionales, aprende de expertos y expande tu red.
+            Al inicio tarda en lo que se tipo levanta el servidor pero si sirve
           </p>
           <Link to="/participantes" className="btn btn-primary btn-lg">
             Entrar
