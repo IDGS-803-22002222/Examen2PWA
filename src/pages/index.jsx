@@ -7,7 +7,7 @@ import NotFound from "./NotFound";
 import LayoutPublic from "../layout/LayoutPublic";
 
 // URL base de tu API
-const API_URL = "https://localhost:7098/api";
+const API_URL = "https://examen2dopwabacend.onrender.com/api";
 
 export const router = createBrowserRouter([
   {
